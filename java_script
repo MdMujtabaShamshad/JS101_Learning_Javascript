@@ -1,0 +1,41 @@
+console.log("Masai School");
+console.log("A Transformation in Education");
+
+
+
+
+var name="Md Mujtaba Shamshad"
+console.log(name)
+name= "Md Shamshad Alam"
+console.log(name);
+name="Shaista Jamal"
+console.log(name);
+
+
+
+
+
+
+var name ="Md Mujtaba Shamshad"
+var age=21;
+console.log(name,age);
+
+
+let style = "ʀͬᴇͤᴘⷬᴏͦʀͬᴛⷮ ᴄͨᴀͣʀͬᴅͩ"
+let Name= "Name:- Md Mutaba Shamshad"
+let School= "School:- Park Mount Public School"
+let Grade = "Grade:- 10th"
+let Section = "Section:- A"
+let Roll ="Roll:- 07"
+let Mark ="Marks Obtened::--"
+let subject1="Science:-70"
+let subject2="Maths:-90"
+let subject3="English:-95"
+
+console.log(Name);
+console.log(School);
+console.log(Grade);
+console.log(Section);
+console.log(Roll);
+console.log(Mark,subject1,subject2,subject3);
+console.log(style);
